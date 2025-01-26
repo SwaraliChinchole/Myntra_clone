@@ -1,3 +1,3 @@
 # Myntra_clone
-In this project i have tried to create a clone of Myntra.
+In this project i have tried to create a clone of Myntra.<br>
 Author- Swarali Chinchole
